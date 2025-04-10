@@ -7,7 +7,7 @@ We built and trained deep learning models using TensorFlow/Keras to classify gra
 ## 👨‍💻 Authors
 - Tal Levy
 - Omer Virshovsky
-- 
+  
 ## 📊 Dataset
 - Grayscale 28x28 images representing digits 0–9
 - **Binary Classification**: classes `2` and `4` only
